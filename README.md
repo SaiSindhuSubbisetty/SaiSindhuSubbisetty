@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sai+Sindhu!;Backend+Developer+@+CosmoTrace;Spring+Boot+|+Java+|+MySQL" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sai+Sindhu+Subbisetty!;Full+Stack+Developer+@+CosmoTrace;Java+|+Spring+Boot+|+MySQL+|+ReactJS+|+TailwindCSS+|+Docker+|+AWS" />
 </p>
 
 ---
